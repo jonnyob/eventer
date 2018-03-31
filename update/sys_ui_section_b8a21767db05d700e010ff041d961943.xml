@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="b8a21767db05d700e010ff041d961943" sys_domain="global" table="sales_lead" version="3" view="event_lead">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>first_name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-31 03:46:49</sys_created_on>
+            <sys_id>78a21767db05d700e010ff041d961944</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sales_lead" sys_domain="global" view="e0a21767db05d700e010ff041d96193c">b8a21767db05d700e010ff041d961943</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-31 03:46:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>last_name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-31 03:46:49</sys_created_on>
+            <sys_id>70a21767db05d700e010ff041d961945</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sales_lead" sys_domain="global" view="e0a21767db05d700e010ff041d96193c">b8a21767db05d700e010ff041d961943</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-31 03:46:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>contact</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-31 03:46:49</sys_created_on>
+            <sys_id>f0a21767db05d700e010ff041d961945</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sales_lead" sys_domain="global" view="e0a21767db05d700e010ff041d96193c">b8a21767db05d700e010ff041d961943</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-31 03:46:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>title</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-31 03:46:49</sys_created_on>
+            <sys_id>74a21767db05d700e010ff041d961945</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sales_lead" sys_domain="global" view="e0a21767db05d700e010ff041d96193c">b8a21767db05d700e010ff041d961943</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-31 03:46:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>phone</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-31 03:46:49</sys_created_on>
+            <sys_id>f4a21767db05d700e010ff041d961945</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sales_lead" sys_domain="global" view="e0a21767db05d700e010ff041d96193c">b8a21767db05d700e010ff041d961943</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-31 03:46:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-31 03:46:49</sys_created_on>
+            <sys_id>78a21767db05d700e010ff041d961945</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sales_lead" sys_domain="global" view="e0a21767db05d700e010ff041d96193c">b8a21767db05d700e010ff041d961943</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-31 03:46:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>city</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-31 03:46:49</sys_created_on>
+            <sys_id>f8a21767db05d700e010ff041d961945</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sales_lead" sys_domain="global" view="e0a21767db05d700e010ff041d96193c">b8a21767db05d700e010ff041d961943</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-31 03:46:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-31 03:46:49</sys_created_on>
+            <sys_id>7ca21767db05d700e010ff041d961945</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sales_lead" sys_domain="global" view="e0a21767db05d700e010ff041d96193c">b8a21767db05d700e010ff041d961943</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-31 03:46:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>country</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-31 03:46:49</sys_created_on>
+            <sys_id>fca21767db05d700e010ff041d961945</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sales_lead" sys_domain="global" view="e0a21767db05d700e010ff041d96193c">b8a21767db05d700e010ff041d961943</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-31 03:46:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-31 03:46:49</sys_created_on>
+            <sys_id>70a21767db05d700e010ff041d961946</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sales_lead" sys_domain="global" view="e0a21767db05d700e010ff041d96193c">b8a21767db05d700e010ff041d961943</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-31 03:46:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-31 03:46:49</sys_created_on>
+            <sys_id>f0a21767db05d700e010ff041d961946</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sales_lead" sys_domain="global" view="e0a21767db05d700e010ff041d96193c">b8a21767db05d700e010ff041d961943</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-31 03:46:49</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>lead_status</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-31 03:46:49</sys_created_on>
+            <sys_id>74a21767db05d700e010ff041d961946</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sales_lead" sys_domain="global" view="e0a21767db05d700e010ff041d96193c">b8a21767db05d700e010ff041d961943</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-31 03:46:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>do_not_contact</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-31 03:46:49</sys_created_on>
+            <sys_id>f4a21767db05d700e010ff041d961946</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sales_lead" sys_domain="global" view="e0a21767db05d700e010ff041d96193c">b8a21767db05d700e010ff041d961943</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-31 03:46:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>account_name</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-31 03:46:49</sys_created_on>
+            <sys_id>78a21767db05d700e010ff041d961946</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sales_lead" sys_domain="global" view="e0a21767db05d700e010ff041d96193c">b8a21767db05d700e010ff041d961943</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-31 03:46:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>account</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-31 03:46:49</sys_created_on>
+            <sys_id>f8a21767db05d700e010ff041d961946</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sales_lead" sys_domain="global" view="e0a21767db05d700e010ff041d96193c">b8a21767db05d700e010ff041d961943</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-31 03:46:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>annual_revenue</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-31 03:46:49</sys_created_on>
+            <sys_id>7ca21767db05d700e010ff041d961946</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sales_lead" sys_domain="global" view="e0a21767db05d700e010ff041d96193c">b8a21767db05d700e010ff041d961943</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-31 03:46:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>employees</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-31 03:46:49</sys_created_on>
+            <sys_id>fca21767db05d700e010ff041d961946</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sales_lead" sys_domain="global" view="e0a21767db05d700e010ff041d96193c">b8a21767db05d700e010ff041d961943</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-31 03:46:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>website</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-31 03:46:49</sys_created_on>
+            <sys_id>70a21767db05d700e010ff041d961947</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sales_lead" sys_domain="global" view="e0a21767db05d700e010ff041d96193c">b8a21767db05d700e010ff041d961943</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-31 03:46:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>lead_source</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-31 03:46:49</sys_created_on>
+            <sys_id>f0a21767db05d700e010ff041d961947</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sales_lead" sys_domain="global" view="e0a21767db05d700e010ff041d96193c">b8a21767db05d700e010ff041d961943</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-31 03:46:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>converted_on</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-31 03:46:49</sys_created_on>
+            <sys_id>74a21767db05d700e010ff041d961947</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sales_lead" sys_domain="global" view="e0a21767db05d700e010ff041d96193c">b8a21767db05d700e010ff041d961943</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-31 03:46:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-31 03:46:49</sys_created_on>
+            <sys_id>f4a21767db05d700e010ff041d961947</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sales_lead" sys_domain="global" view="e0a21767db05d700e010ff041d96193c">b8a21767db05d700e010ff041d961943</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-31 03:46:49</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>21</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-31 03:46:49</sys_created_on>
+            <sys_id>78a21767db05d700e010ff041d961947</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sales_lead" sys_domain="global" view="e0a21767db05d700e010ff041d96193c">b8a21767db05d700e010ff041d961943</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-31 03:46:49</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>22</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-31 03:46:49</sys_created_on>
+            <sys_id>f8a21767db05d700e010ff041d961947</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sales_lead" sys_domain="global" view="e0a21767db05d700e010ff041d96193c">b8a21767db05d700e010ff041d961943</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-31 03:46:49</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>23</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-31 03:46:49</sys_created_on>
+            <sys_id>7ca21767db05d700e010ff041d961947</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sales_lead" sys_domain="global" view="e0a21767db05d700e010ff041d96193c">b8a21767db05d700e010ff041d961943</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-31 03:46:49</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>24</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-31 03:46:49</sys_created_on>
+            <sys_id>fca21767db05d700e010ff041d961947</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sales_lead" sys_domain="global" view="e0a21767db05d700e010ff041d96193c">b8a21767db05d700e010ff041d961943</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-31 03:46:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sales_lead</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-31 03:46:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b8a21767db05d700e010ff041d961943</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sales_lead</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Eventer" source="x_snc_eventer">c2425be3db05d700e010ff041d9619fb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Eventer">c2425be3db05d700e010ff041d9619fb</sys_scope>
+            <sys_update_name>sys_ui_section_b8a21767db05d700e010ff041d961943</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-31 03:46:49</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Event Lead" name="event_lead">e0a21767db05d700e010ff041d96193c</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
